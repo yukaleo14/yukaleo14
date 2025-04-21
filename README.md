@@ -1,16 +1,17 @@
-<h1 align="center">Alo, soy Leopoldo Martini</h1>
-<h3 align="center">Estudiante de ing. en sistemas</h3>
+<h1 align="center">Alo, I'm Leopoldo Martini</h1>
+<h3 align="center">Soy estudiante de ing. en sistemas</h3>
 
 - 🔭 Estoy trabajando en [Sistema de autenticación de usuario](https://github.com/yukaleo14/Logintry)
 
 - 🌱 Estoy aprendiendo **.NET y C#**
 
-- 📫 Contacto -> **yukaleo43@gmail.com**
+- 📫 How to reach me **yukaleo43@gmail.com**
 
-- ⚡ Fun fact -> **Soy peluquero :p**
+- ⚡ Fun fact **Soy peluquero :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leopo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leopo/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29793550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29793550" height="30" width="40" /></a>
 <a href="https://instagram.com/@leopyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@leopyk" height="30" width="40" /></a>
 <a href="https://discord.gg/leopyk#3906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leopyk#3906" height="30" width="40" /></a>
