@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en [Sistema de autenticación de usuario](https://github.com/yukaleo14/Logintry)
 
-- 🌱 Estoy aprendiendo **Node.js y express**
+- 🌱 Estoy aprendiendo **.NET y C#**
 
 - 📫 Contacto -> **yukaleo43@gmail.com**
 
