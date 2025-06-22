@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **.NET y C#**
 
-- 📫 How to reach me **yukaleo43@gmail.com**
+- 📫 Contacto  **yukaleo43@gmail.com**
 
 - ⚡ Fun fact **Soy peluquero :p**
 
